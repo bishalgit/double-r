@@ -1,5 +1,5 @@
-*****These are the tasks to finish within deadline*****
-*****Deadline: 2016-sep-1*****
-*******1. Use Case*******
-*******2. Domain Diagram*******
-*******3. Proposal*******
+           *****These are the tasks to finish within deadline*****
+                      *****Deadline: 2016-sep-1*****
+                      *******1. Use Case************
+                      *******2. Domain Diagram******
+                      *******3. Proposal************
